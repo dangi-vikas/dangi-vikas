@@ -1,16 +1,17 @@
-<div>👋 Hi, I’m Vikas Dangi</div>
+<div>👋 Hi, I’m 
+  <a href="https://github.com/dangi-vikas">Vikas Dangi</a>
+</div>
 <div>👀 I’m interested in Web Development and Data Science</div>
 <div>📚 Currently pursuing Engineering from IET-DAVV, Indore</div>
 
 <div>&nbsp;</div>
 
+<img align= center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> 
+mvikasdangi@gmail.com
+  
 <div>
-  <img align= center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> 
-  mvikasdangi@gmail.com 
-</div>
-
-<div>
-  <img align= center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>  https://www.linkedin.com/in/vikasdangi
+  <img align= center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>  
+  <a href="https://www.linkedin.com/in/vikasdangi">vikasdangi</a>
 </div>
  
 <div>&nbsp;</div>
@@ -21,6 +22,7 @@
   <img align= center src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img> 
   <img align= center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img> 
   <img align= center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img> 
+  <img align= center src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img> 
   <img align= center src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img align= center src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img>
 </div>
