@@ -1,7 +1,7 @@
-<div>👋 Hi, I’m 
+<div>👋 Hi, I am 
   <a href="https://github.com/dangi-vikas">Vikas Dangi</a>
 </div>
-<div>👀 I’m interested in Web Development and Data Science</div>
+<div>👀 I am interested in Web Development and Data Science</div>
 <div>📚 Currently pursuing Engineering from IET-DAVV, Indore</div>
 
 <div>&nbsp;</div>
