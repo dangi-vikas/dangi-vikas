@@ -16,7 +16,7 @@
 
 <div align="center">
   
-📚 Currently pursuing Engineering from **IET-DAVV, Indore** 
+📚 **IET-DAVV, Indore** Engineering Graduate
 
 💬 Ask me about **React, Spring and C++**
 
