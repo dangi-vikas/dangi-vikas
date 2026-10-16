@@ -103,4 +103,4 @@ Planned topics:
 
 I'm interested in backend engineering, distributed systems, open-source collaboration, and solving challenging software engineering problems.
 
-[GitHub](https://github.com/dangi-vikas) · [LinkedIn](https://www.linkedin.com/in/vikasdangi)
+[GitHub](https://github.com/dangi-vikas) · [LinkedIn](https://www.linkedin.com/in/vikasdangi) · [Portfolio](https://vikasdangi.netlify.app)
