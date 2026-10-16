@@ -34,34 +34,49 @@ I enjoy solving engineering problems involving scalability, performance, reliabi
 
 ## 🚀 Featured Projects
 
-### 1. NexGen — Pharmacy Platform
+### 1. Snap2Stay — AI-Powered Visual Property Search
+
+A visual search system that uses AI-powered image embeddings to find matching Marriott properties from a photo and discover other places in the same destination.
+
+**Highlights**
+- Built a modular microservices architecture for visual property search.
+- Integrated CLIP-based image embeddings using Hugging Face Transformers and Python FastAPI.
+- Developed Java-based services for image ingestion, property catalog management, and visual search.
+- Used reactive APIs with Spring WebFlux and Resilience4j circuit breakers for downstream resilience.
+
+**Tech:** Java 21, Spring Boot 3, Spring WebFlux, Python, FastAPI, CLIP, Hugging Face Transformers, Resilience4j.
+
+[Explore the repository](https://github.com/dangi-vikas/snap2stay)
+
+### 2. NexGen — Pharmacy Platform
+
 A pharmacy platform built using Spring Boot microservices and React.
 
 **Highlights**
-- Event-driven communication using Kafka.
-- Caching with Redis.
-- REST APIs and secure authentication.
-- Containerization and orchestration using Docker and Kubernetes.
+- Implemented event-driven communication using Kafka.
+- Integrated Redis caching and secure authentication.
+- Built REST APIs and containerized services using Docker and Kubernetes.
 
 **Tech:** Java, Spring Boot, React, Kafka, Redis, SQL Server, Docker, Kubernetes.
 
 [Explore the repository](https://github.com/dangi-vikas/nexgen)
 
-### 2. The File Store — File Management Service
+### 3. The File Store — File Management Service
+
 A file management application built with Spring REST APIs and containerized deployment.
 
 **Highlights**
-- RESTful API design.
-- Secure file management workflows.
-- Docker-based containerization.
-- Kubernetes deployment.
+- Developed RESTful APIs for file management.
+- Implemented secure file management workflows.
+- Containerized the application using Docker and deployed it on Kubernetes.
 
 **Tech:** Java, Spring, REST APIs, Docker, Kubernetes.
 
 [Explore the repository](https://github.com/dangi-vikas/the-file-store)
 
-### 3. Backend Engineering Lab
-A growing collection of practical implementations covering backend engineering and distributed systems.
+### 4. Backend Engineering Lab
+
+A collection of practical implementations covering backend engineering and distributed systems.
 
 Planned topics:
 - Kafka event processing and retry strategies.
