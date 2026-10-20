@@ -48,7 +48,21 @@ A visual search system that uses AI-powered image embeddings to find matching Ma
 
 [Explore the repository](https://github.com/dangi-vikas/snap2stay)
 
-### 2. NexGen — Pharmacy Platform
+### 2. RepoPilot — AI-Powered Code Intelligence & Performance Analyzer
+
+An AI-powered developer tool designed to help engineers understand, analyze, and optimize Java codebases using static analysis, runtime profiling, and locally hosted LLMs.
+
+**Highlights**
+- Developing AI-assisted codebase exploration, source-grounded explanations, and dependency visualization.
+- Integrating static-analysis tools to investigate potential code-quality issues, memory-retention risks, and concurrency problems.
+- Exploring Java Flight Recorder (JFR) profiling to investigate performance hotspots and excessive memory allocations.
+- Designing AI-assisted optimization recommendations with source-code references and a local-first architecture.
+
+**Tech:** Java 21, Spring Boot, React, TypeScript, Ollama, JavaParser, SpotBugs, PMD, JFR, PostgreSQL, Docker.
+
+[Explore the repository](https://github.com/dangi-vikas/repo-pilot)
+
+### 3. NexGen — Pharmacy Platform
 
 A pharmacy platform built using Spring Boot microservices and React.
 
@@ -61,7 +75,7 @@ A pharmacy platform built using Spring Boot microservices and React.
 
 [Explore the repository](https://github.com/dangi-vikas/nexgen)
 
-### 3. The File Store — File Management Service
+### 4. The File Store — File Management Service
 
 A file management application built with Spring REST APIs and containerized deployment.
 
@@ -73,19 +87,6 @@ A file management application built with Spring REST APIs and containerized depl
 **Tech:** Java, Spring, REST APIs, Docker, Kubernetes.
 
 [Explore the repository](https://github.com/dangi-vikas/the-file-store)
-
-### 4. Backend Engineering Lab
-
-A collection of practical implementations covering backend engineering and distributed systems.
-
-Planned topics:
-- Kafka event processing and retry strategies.
-- Redis caching and cache invalidation.
-- Resilience patterns: timeouts, retries, and circuit breakers.
-- Concurrent programming and thread safety.
-- API performance testing and observability.
-
-*Project implementations and documentation will be added as each module is completed.*
 
 ---
 
